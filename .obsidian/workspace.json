@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "be99a6d22f7bfb58",
+    "type": "split",
+    "children": [
+      {
+        "id": "e899c654fd602c71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4603ed4fb547e728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/markdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "markdown"
+            }
+          },
+          {
+            "id": "53f6e8bb7b82ec49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture0/文件路径.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "文件路径"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3727eeb955ce64f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c70a575c3a70db7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb843f609f9c2d57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "63c97ecfff079ed4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9be97ea7b1f5c1b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "60b20cffb86f9f2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "22341f08d9dc0d00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e18abbe0ac13bfb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "书稿.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "书稿 的反向链接列表"
+            }
+          },
+          {
+            "id": "8d0743ef626f4254",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "书稿.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "书稿 的出链列表"
+            }
+          },
+          {
+            "id": "dd033715d3a1fdb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "153c59cea2615277",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1a7d7d485ccc808d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "书稿.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "书稿 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bb843f609f9c2d57",
+  "lastOpenFiles": [
+    "工具/markdown.md",
+    "lecture0/文件路径.md",
+    "lecture0/shell.md",
+    "语言基础/CPP.md",
+    "工具/GNU Make与C Make.md",
+    "工具/Git.md",
+    "Go-Go-Study/lesson01：hello word/note.md",
+    "语言基础/java.md",
+    "语言基础/go.md",
+    "Go-Go-Study/testLib/main.go",
+    "Go-Go-Study/testLib",
+    "Go-Go-Study/resource/unittest.png",
+    "Go-Go-Study/resource/t1v2html.jpg",
+    "Go-Go-Study/resource/t1html.jpg",
+    "Go-Go-Study/resource/packageAtch.jpg",
+    "Go-Go-Study/resource/methodDeclare.png",
+    "Go-Go-Study/resource/importMyPackage.jpg",
+    "Go-Go-Study/resource/https4.png",
+    "Go-Go-Study/resource/https3.png",
+    "Go-Go-Study/resource/https2.png",
+    "Go-Go-Study/resource/https1.png",
+    "Go-Go-Study/resource/debug.log",
+    "Go-Go-Study/resource/GoINAction.pdf",
+    "Go-Go-Study/resource/Get.Programming.Go.Nathan.Youngman.pdf",
+    "Go-Go-Study/resource",
+    "Go-Go-Study/lesson35：Go开发Web应用（5）使用https/server/main.go",
+    "Go-Go-Study/lesson35：Go开发Web应用（5）使用https/server/go.mod",
+    "Go-Go-Study/lesson35：Go开发Web应用（5）使用https/client/openssl.cnf",
+    "Go-Go-Study/lesson35：Go开发Web应用（5）使用https/client/main.go",
+    "Go-Go-Study/lesson35：Go开发Web应用（5）使用https/note.md",
+    "Go-Go-Study/lesson34：Go开发Web应用（4）Web服务/note.md",
+    "Go-Go-Study/lesson33：Go开发Web应用（3）模板/note.md",
+    "Go-Go-Study/lesson32：Go开发Web应用（2）请求参数/note.md",
+    "Go-Go-Study/lesson31：Go开发Web应用（1）Handler/note.md",
+    "Go-Go-Study/lesson30：数据库基本操作/note.md",
+    "Go-Go-Study/lesson29：测试和性能/note.md",
+    "Go-Go-Study/lesson28：标准库/note.md",
+    "Go-Go-Study/lesson27：并发模式/note.md",
+    "Go-Go-Study/lesson26：公开和未公开标识符/note.md",
+    "Go-Go-Study/lesson25：包的管理/note.md",
+    "Go-Go-Study/lesson23：并发状态/note.md",
+    "Go-Go-Study/lesson22：goroutine和并发/note.md",
+    "Go-Go-Study/lesson21：错误处理/note.md",
+    "Go-Go-Study/lesson20：了解nil/note.md",
+    "Go-Go-Study/lesson19：指针(2)/note.md",
+    "Go-Go-Study/lesson18：指针(1)/note.md"
+  ]
+}
