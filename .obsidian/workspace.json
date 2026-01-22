@@ -11,10 +11,14 @@
             "id": "64dd03d4951ce902",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "工具/GNU Make与C Make.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "GNU Make与C Make"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 200
   },
   "right": {
     "id": "60b20cffb86f9f2f",
@@ -192,8 +196,9 @@
   },
   "active": "64dd03d4951ce902",
   "lastOpenFiles": [
-    "lecture0/文件路径.md",
+    "工具/markdown.md",
     "工具/ssh.md",
+    "lecture0/文件路径.md",
     "lecture0/shell.md",
     "工具/VIM.md",
     "项目/qq机器人.md",
@@ -203,7 +208,6 @@
     "cplusplus2020-2021-2/Chapter1/Chapter1.pdf",
     "语言基础/java.md",
     "语言基础/go.md",
-    "工具/markdown.md",
     "Go-Go-Study/lesson01：hello word/note.md",
     "工具/GNU Make与C Make.md",
     "工具/Git.md",
