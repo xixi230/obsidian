@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/GNU Make与C Make.md",
+                "file": "lecture0/shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GNU Make与C Make"
+              "title": "shell"
             }
           }
         ]
@@ -196,9 +196,15 @@
   },
   "active": "64dd03d4951ce902",
   "lastOpenFiles": [
+    "语言基础/rust.md",
+    "语言基础/python.md",
+    "语言基础/java.md",
+    "语言基础/go.md",
+    "lecture0/文件路径.md",
+    "lecture0/基础.md",
+    "工具/GNU Make与C Make.md",
     "工具/markdown.md",
     "工具/ssh.md",
-    "lecture0/文件路径.md",
     "lecture0/shell.md",
     "工具/VIM.md",
     "项目/qq机器人.md",
@@ -206,10 +212,7 @@
     "项目/web搭建.md",
     "语言基础/CS50.md",
     "cplusplus2020-2021-2/Chapter1/Chapter1.pdf",
-    "语言基础/java.md",
-    "语言基础/go.md",
     "Go-Go-Study/lesson01：hello word/note.md",
-    "工具/GNU Make与C Make.md",
     "工具/Git.md",
     "Go-Go-Study/testLib/main.go",
     "Go-Go-Study/testLib",
@@ -238,9 +241,6 @@
     "Go-Go-Study/lesson30：数据库基本操作/note.md",
     "Go-Go-Study/lesson29：测试和性能/note.md",
     "Go-Go-Study/lesson28：标准库/note.md",
-    "Go-Go-Study/lesson27：并发模式/note.md",
-    "Go-Go-Study/lesson26：公开和未公开标识符/note.md",
-    "Go-Go-Study/lesson25：包的管理/note.md",
-    "Go-Go-Study/lesson23：并发状态/note.md"
+    "Go-Go-Study/lesson27：并发模式/note.md"
   ]
 }
