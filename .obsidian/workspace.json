@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "讲座/工具/Git.md",
+                "file": "讲座/lecture0/文件路径.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "文件路径"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "74441af24a6fe66e",
   "lastOpenFiles": [
+    "讲座/lecture0/shell.md",
+    "讲座/工具/Git.md",
     "讲座",
     "讲座/工具/GNU Make与C Make.md",
     "讲座/lecture0/附件/Pasted image 20260120151254.png",
@@ -207,7 +209,6 @@
     "讲座/项目/附件/Pasted image 20260120143945.png",
     "讲座/项目/qq机器人.md",
     "Pasted image 20260120131955.png",
-    "讲座/lecture0/shell.md",
     "讲座/语言基础/rust.md",
     "讲座/语言基础/python.md",
     "讲座/语言基础/java.md",
@@ -222,7 +223,6 @@
     "讲座/语言基础/CS50.md",
     "cplusplus2020-2021-2/Chapter1/Chapter1.pdf",
     "Go-Go-Study/lesson01：hello word/note.md",
-    "讲座/工具/Git.md",
     "Go-Go-Study/testLib/main.go",
     "Go-Go-Study/testLib",
     "Go-Go-Study/resource/unittest.png",
@@ -235,7 +235,6 @@
     "Go-Go-Study/resource/Get.Programming.Go.Nathan.Youngman.pdf",
     "Go-Go-Study/resource",
     "Go-Go-Study/lesson35：Go开发Web应用（5）使用https/server/main.go",
-    "Go-Go-Study/lesson35：Go开发Web应用（5）使用https/server/go.mod",
     "Go-Go-Study/lesson35：Go开发Web应用（5）使用https/note.md",
     "Go-Go-Study/lesson34：Go开发Web应用（4）Web服务/note.md",
     "Go-Go-Study/lesson33：Go开发Web应用（3）模板/note.md",
