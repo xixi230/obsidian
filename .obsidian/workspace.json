@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "讲座/lecture0/基础.md",
+                "file": "讲座/漫游计算机/为什么是计算机？为什么是人工智能？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础"
+              "title": "为什么是计算机？为什么是人工智能？"
             }
           }
         ]
@@ -196,12 +196,15 @@
   },
   "active": "74441af24a6fe66e",
   "lastOpenFiles": [
+    "讲座/漫游计算机/花凉学长如是说.md",
+    "讲座/漫游计算机/为什么是计算机？为什么是人工智能？.md",
+    "讲座/漫游计算机/附件/别像弱智一样提问(1).pdf",
+    "讲座/lecture0/基础.md",
     "讲座/lecture0/伪代码.md",
     "讲座/lecture0/shell.md",
     "讲座/lecture0/文件路径.md",
     "lecture0/文件路径.md",
     "123.md",
-    "讲座/漫游计算机/为什么是计算机？为什么是人工智能？.md",
     "附件/Pasted image 20260130095508.png",
     "附件",
     "讲座/漫游计算机/别像弱智一样提问(1).pdf",
@@ -232,14 +235,11 @@
     "讲座/语言基础/python.md",
     "讲座/语言基础/java.md",
     "讲座/语言基础/go.md",
-    "讲座/lecture0/基础.md",
     "讲座/工具/ssh.md",
     "讲座/工具/VIM.md",
     "讲座/语言基础/CPP.md",
     "讲座/项目/web搭建.md",
-    "cplusplus2020-2021-2/Chapter1/Chapter1.pdf",
     "Go-Go-Study/lesson01：hello word/note.md",
-    "Go-Go-Study/lesson35：Go开发Web应用（5）使用https/note.md",
-    "Go-Go-Study/lesson34：Go开发Web应用（4）Web服务/note.md"
+    "Go-Go-Study/lesson35：Go开发Web应用（5）使用https/note.md"
   ]
 }
