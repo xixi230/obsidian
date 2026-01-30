@@ -194,8 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74441af24a6fe66e",
+  "active": "e2cba446dd9f33f6",
   "lastOpenFiles": [
+    "123.md",
+    "附件/Pasted image 20260130095508.png",
+    "附件",
+    "讲座/漫游计算机/为什么是计算机？为什么是人工智能？.md",
     "讲座/漫游计算机/别像弱智一样提问(1).pdf",
     "讲座/数学基础/微积分.md",
     "讲座/数学基础/线性代数.md",
@@ -204,14 +208,11 @@
     "讲座/数学基础/附件/Pasted image 20260129211942.png",
     "讲座/数学基础/附件/Pasted image 20260129210519.png",
     "讲座/数学基础/附件",
-    "讲座/漫游计算机/为什么是计算机？为什么是人工智能？.md",
     "讲座/漫游计算机/附件/Pasted image 20260129203001.png",
     "讲座/漫游计算机/附件/Pasted image 20260129202734.png",
     "讲座/漫游计算机/附件/Pasted image 20260129202636.png",
     "讲座/漫游计算机/附件/Pasted image 20260129202440.png",
     "讲座/漫游计算机/附件/Pasted image 20260129202259.png",
-    "讲座/漫游计算机/附件/Pasted image 20260129202114.png",
-    "123.md",
     "讲座/漫游计算机/附件",
     "讲座/工具/Git.md",
     "讲座/漫游计算机",
@@ -237,9 +238,7 @@
     "讲座/项目/web搭建.md",
     "cplusplus2020-2021-2/Chapter1/Chapter1.pdf",
     "Go-Go-Study/lesson01：hello word/note.md",
-    "Go-Go-Study/testLib/main.go",
     "Go-Go-Study/lesson35：Go开发Web应用（5）使用https/note.md",
-    "Go-Go-Study/lesson34：Go开发Web应用（4）Web服务/note.md",
-    "Go-Go-Study/lesson33：Go开发Web应用（3）模板/note.md"
+    "Go-Go-Study/lesson34：Go开发Web应用（4）Web服务/note.md"
   ]
 }
