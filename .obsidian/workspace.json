@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "讲座/漫游计算机/为什么是计算机？为什么是人工智能？.md",
+                "file": "讲座/lecture0/基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为什么是计算机？为什么是人工智能？"
+              "title": "基础"
             }
           }
         ]
@@ -194,12 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2cba446dd9f33f6",
+  "active": "74441af24a6fe66e",
   "lastOpenFiles": [
+    "讲座/lecture0/伪代码.md",
+    "讲座/lecture0/shell.md",
+    "讲座/lecture0/文件路径.md",
+    "lecture0/文件路径.md",
     "123.md",
+    "讲座/漫游计算机/为什么是计算机？为什么是人工智能？.md",
     "附件/Pasted image 20260130095508.png",
     "附件",
-    "讲座/漫游计算机/为什么是计算机？为什么是人工智能？.md",
     "讲座/漫游计算机/别像弱智一样提问(1).pdf",
     "讲座/数学基础/微积分.md",
     "讲座/数学基础/线性代数.md",
@@ -218,12 +222,9 @@
     "讲座/漫游计算机",
     "讲座/语言基础/CS50.md",
     "论文/neo4j (4).pdf",
-    "讲座/lecture0/伪代码.md",
     "讲座/工具/附件",
     "讲座/工具/GNU Make与C Make.md",
     "讲座/工具/markdown.md",
-    "讲座/lecture0/文件路径.md",
-    "讲座/lecture0/shell.md",
     "讲座",
     "shiro.zip",
     "讲座/项目/qq机器人.md",
