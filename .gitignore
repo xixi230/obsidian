@@ -1,0 +1,10 @@
+123.md
+hibernate_fix.pp
+hibernate_fix.te
+hibernate_sleep_fix.pp
+hibernate_sleep_fix.te
+shiro.zip
+论文/
+
+# Obsidian 配置（避免多设备同步冲突）
+.obsidian/
