@@ -5,6 +5,5 @@
   "textFontFamily": "Styrene B",
   "baseFontSizeAction": true,
   "monospaceFontFamily": "Courier New",
-  "baseFontSize": 26,
-  "nativeMenus": false
+  "baseFontSize": 26
 }

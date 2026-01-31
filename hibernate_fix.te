@@ -1,0 +1,13 @@
+
+module hibernate_fix 1.0;
+
+require {
+	type swapfile_t;
+	type unlabeled_t;
+	type systemd_logind_t;
+	class dir search;
+}
+
+#============= systemd_logind_t ==============
+allow systemd_logind_t swapfile_t:dir search;
+allow systemd_logind_t unlabeled_t:dir search;
