@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "讲座/漫游计算机/为什么是计算机？为什么是人工智能？.md",
+                "file": "讲座/漫游计算机/入门说是.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为什么是计算机？为什么是人工智能？"
+              "title": "入门说是"
             }
           }
         ]
@@ -171,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -190,14 +190,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:新建数据库": false
     }
   },
-  "active": "bb843f609f9c2d57",
+  "active": "e2cba446dd9f33f6",
   "lastOpenFiles": [
-    "讲座/漫游计算机/别像弱智一样提问(1).pdf",
+    "讲座/漫游计算机/入门说是.md",
     "讲座/漫游计算机/为什么是计算机？为什么是人工智能？.md",
+    "Pasted image 20260120131955.png",
+    "讲座/漫游计算机/别像弱智一样提问(1).pdf",
     "讲座/漫游计算机/附件/Pasted image 20260129203001.png",
     "讲座/漫游计算机/附件/Pasted image 20260129202734.png",
     "讲座/漫游计算机/附件/Pasted image 20260129202636.png",
@@ -207,7 +208,6 @@
     "讲座/漫游计算机/附件/Pasted image 20260129201636.png",
     "讲座/漫游计算机/附件/Pasted image 20260129201622.png",
     "讲座/漫游计算机/附件/Pasted image 20260129200336.png",
-    "讲座/漫游计算机/附件/Pasted image 20260129194855.png",
     "123.md",
     "讲座/漫游计算机/附件",
     "讲座/工具/Git.md",
