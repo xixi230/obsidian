@@ -62,3 +62,33 @@ ssh默认的端口是22。我们可以使用p参数，可以修改这个端口�
 ssh -p 1919 shiro@host
  ```
  这条命令表示ssh直接连接远程主机的1919端口
+
+
+有公开的服务器大家可以尝试联系ssh登陆：
+
+SDF (Super Dimension Fortress) 是一个免费的公共 Unix shell 服务，从 1987 年运营至今。
+
+可以用来：
+
+- 练习 SSH 和 Unix/Linux 命令行
+- 学习 shell 脚本
+- 搭建个人网站 ([http://shiro.sdf.org](http://shiro.sdf.org))
+- 用 IRC/Mastodon 社交
+- 玩 MUD 游戏
+- 托管 Gopher/Gemini 页面
+
+非常适合练习 SSH 和 Linux 基础操作。免费账号有一些限制，捐 $36 可以升级成永久会员 (`arpa` 命令查看详情)。
+
+```bash
+ssh new@sdf.org
+```
+用户名和密码都用new
+login: new
+Password: new
+
+
+注册完成之后你就可以用它来练习ssh了！
+
+```bash
+ssh your-name@tty.sdf.org
+```

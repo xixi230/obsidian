@@ -180,6 +180,7 @@ git reset --mixed <commit_hash>
 这些提交被称为“孤立提交”。如果希望恢复或者删除这些孤立提交，可以执行以下命令
 ```bash
 git fsck --lost-found # 查看孤立提交、孤立分支等
+git reflog #最近操作的提交
 git checkout <commit_hash> # 进入分离头模式
 git branch <branch_name> # 创建一个分支来恢复孤立提交
 
