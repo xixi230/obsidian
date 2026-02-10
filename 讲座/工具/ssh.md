@@ -59,6 +59,6 @@ ssh shiro@host
 
 ssh默认的端口是22。我们可以使用p参数，可以修改这个端口：
  ```bash
- ssh -p 1919 shiro@host
+ssh -p 1919 shiro@host
  ```
  这条命令表示ssh直接连接远程主机的1919端口
